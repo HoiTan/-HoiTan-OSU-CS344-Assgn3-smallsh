@@ -1,1 +1,1 @@
-# -HoiTan-OSU-CS344-Assgn3-smallsh
+# OSU-CS344-Assgn3-smallsh
